@@ -28,7 +28,6 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "node_modules/bootswatch/dist/Flatly/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": [
