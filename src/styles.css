@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+.ml10 {
+    margin-left: 10px;
+}
+
+.tab-panel {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.member-tabset>.nav-tabs>li.open .dropdown-menu,
+.member-tabset>.nav-tabs>li:hover .dropdown-menu {
+    margin-top: 0px;
+}
+
+.member-tabset>.tab-content {
+    margin-top: -3px;
+    background-color: #fff;
+    border: 0;
+    border-top: 1px solid #eee;
+    padding: 15px 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.badge.badge-lg {
+    font-size: 1.1em;
+}
